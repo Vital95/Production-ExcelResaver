@@ -1,0 +1,24 @@
+D:\Hard drive\All my tasks\My software\Atomatization\In progress\ExcelResaver_v1_0_1_7_words_upgrade\ExcelResaver v1.0.1.7 words upgrade\ExcelResaver\bin\Release\ExcelResaver.exe.manifest
+D:\Hard drive\All my tasks\My software\Atomatization\In progress\ExcelResaver_v1_0_1_7_words_upgrade\ExcelResaver v1.0.1.7 words upgrade\ExcelResaver\bin\Release\ExcelResaver.application
+D:\Hard drive\All my tasks\My software\Atomatization\In progress\ExcelResaver_v1_0_1_7_words_upgrade\ExcelResaver v1.0.1.7 words upgrade\ExcelResaver\bin\Release\ExcelResaver.exe
+D:\Hard drive\All my tasks\My software\Atomatization\In progress\ExcelResaver_v1_0_1_7_words_upgrade\ExcelResaver v1.0.1.7 words upgrade\ExcelResaver\bin\Release\ExcelResaver.pdb
+D:\Hard drive\All my tasks\My software\Atomatization\In progress\ExcelResaver_v1_0_1_7_words_upgrade\ExcelResaver v1.0.1.7 words upgrade\ExcelResaver\obj\x86\Release\ExcelResaver.csprojResolveAssemblyReference.cache
+D:\Hard drive\All my tasks\My software\Atomatization\In progress\ExcelResaver_v1_0_1_7_words_upgrade\ExcelResaver v1.0.1.7 words upgrade\ExcelResaver\obj\x86\Release\ExcelResaver.exe.manifest
+D:\Hard drive\All my tasks\My software\Atomatization\In progress\ExcelResaver_v1_0_1_7_words_upgrade\ExcelResaver v1.0.1.7 words upgrade\ExcelResaver\obj\x86\Release\ExcelResaver.application
+D:\Hard drive\All my tasks\My software\Atomatization\In progress\ExcelResaver_v1_0_1_7_words_upgrade\ExcelResaver v1.0.1.7 words upgrade\ExcelResaver\obj\x86\Release\ExcelResaver.exe
+D:\Hard drive\All my tasks\My software\Atomatization\In progress\ExcelResaver_v1_0_1_7_words_upgrade\ExcelResaver v1.0.1.7 words upgrade\ExcelResaver\obj\x86\Release\ExcelResaver.pdb
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\ExcelResaver v1.0.1.8+\ExcelResaver\obj\x86\Release\ExcelResaver.exe
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\ExcelResaver v1.0.1.8+\ExcelResaver\obj\x86\Release\ExcelResaver.pdb
+C:\Users\Vitalii\Desktop\ExcelResaver v1.0.1.9 test\ExcelResaver\obj\x86\Release\ExcelResaver.exe
+C:\Users\Vitalii\Desktop\ExcelResaver v1.0.1.9 test\ExcelResaver\obj\x86\Release\ExcelResaver.pdb
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\obj\x86\Release\ExcelResaver.exe
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\obj\x86\Release\ExcelResaver.pdb
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\bin\Release\ExcelResaver.exe.manifest
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\bin\Release\ExcelResaver.application
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\bin\Release\ExcelResaver.exe
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\bin\Release\ExcelResaver.pdb
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\obj\x86\Release\ExcelResaver.csprojResolveAssemblyReference.cache
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\obj\x86\Release\ExcelResaver.exe.manifest
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\obj\x86\Release\ExcelResaver.application
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\ExcelResaver_v1.0.1.9+\ExcelResaver\obj\x86\Release\ExcelResaver.exe
+D:\Hard drive\All my tasks\My software\Atomatization\History\In production\ExcelResaver_v1.0.1.9+\ExcelResaver\obj\x86\Release\ExcelResaver.pdb

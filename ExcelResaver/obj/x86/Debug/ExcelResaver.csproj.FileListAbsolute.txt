@@ -1,0 +1,17 @@
+C:\Users\Vitalii\Desktop\ExcelResaver v1.0.1.9 test\ExcelResaver\bin\Debug\ExcelResaver.exe.manifest
+C:\Users\Vitalii\Desktop\ExcelResaver v1.0.1.9 test\ExcelResaver\bin\Debug\ExcelResaver.application
+C:\Users\Vitalii\Desktop\ExcelResaver v1.0.1.9 test\ExcelResaver\bin\Debug\ExcelResaver.exe
+C:\Users\Vitalii\Desktop\ExcelResaver v1.0.1.9 test\ExcelResaver\bin\Debug\ExcelResaver.pdb
+C:\Users\Vitalii\Desktop\ExcelResaver v1.0.1.9 test\ExcelResaver\obj\x86\Debug\ExcelResaver.exe.manifest
+C:\Users\Vitalii\Desktop\ExcelResaver v1.0.1.9 test\ExcelResaver\obj\x86\Debug\ExcelResaver.application
+C:\Users\Vitalii\Desktop\ExcelResaver v1.0.1.9 test\ExcelResaver\obj\x86\Debug\ExcelResaver.exe
+C:\Users\Vitalii\Desktop\ExcelResaver v1.0.1.9 test\ExcelResaver\obj\x86\Debug\ExcelResaver.pdb
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\obj\x86\Debug\ExcelResaver.exe
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\obj\x86\Debug\ExcelResaver.pdb
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\bin\Debug\ExcelResaver.exe.manifest
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\bin\Debug\ExcelResaver.application
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\bin\Debug\ExcelResaver.exe
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\obj\x86\Debug\ExcelResaver.exe.manifest
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\obj\x86\Debug\ExcelResaver.application
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\bin\Debug\ExcelResaver.pdb
+C:\Users\Vitalii\Desktop\ExcelResaver_v1.0.1.9_test\ExcelResaver\obj\x86\Debug\ExcelResaver.csprojResolveAssemblyReference.cache
